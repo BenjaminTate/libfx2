@@ -208,4 +208,4 @@ for _, bitgroup in sorted([(regaddrs[next(iter(bitgroups[bitgroup]))], bitgroup)
     print(  "/**@}*/")
     print()
 
-print("#endif")
+print("#_A/
