@@ -2,7 +2,7 @@
 build/
 .stamp
 *.bin
-*.lib
+*.lib Apl_templete translate 
 *.ihex
 *.uf2
 *.UF2
